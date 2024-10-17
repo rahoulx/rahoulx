@@ -14,7 +14,7 @@
 ### DevOps
   
  <p float="left">
-  <a href="https://aws.amazon.com/" target="_blank" >
+     <a href="https://aws.amazon.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="75" />
   </a>
   <a href="https://www.docker.com/" target="_blank" >
@@ -23,6 +23,13 @@
   <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="65" />
   </a>
+   <a href="https://dribbble.com/" target="_blank" >
+    <img src="https://cdn.dribbble.com/users/270616/screenshots/4884916/media/85ebd693f0843635b5810eaef81a7a95.gif"  height="110" />
+  </a>
+  <a href="https://media.tenor.com/" target="_blank" >
+    <img src="https://media.tenor.com/1VRvSF8gjmEAAAAM/swiping-jenkins-ci.gif"  height="80" />
+  </a>
+   
  </p>
   
 ### Databases and Monitoring
