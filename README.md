@@ -4,7 +4,7 @@
 **rahoulx/rahoulx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <!-- Header Section -->
-<h1 align="center"><font face="Arial">I am [Rahul](https://www.linkedin.com/in/rahul-raju-065411285/), a Devops Engineer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp; working on Cloud and DevOps for 2+ years of professional experience. Ardent about automation things. 🎯</font></h1>
+<h1 align="center"><font face="Arial">I am <a href="https://www.linkedin.com/in/rahul-raju-065411285/" target="_blank" rel="noreferrer">Rahul</a>, a Devops Engineer from 🇮🇳 ; working on Cloud and DevOps for 2+ years of professional experience. Ardent about automating things. 🎯</font></h1>
 
 
 <!-- GIF -->
